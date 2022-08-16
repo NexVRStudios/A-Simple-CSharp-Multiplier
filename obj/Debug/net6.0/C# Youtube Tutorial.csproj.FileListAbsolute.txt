@@ -1,0 +1,15 @@
+C:\Users\Keagon Frye\Downloads\C# Youtube Tutorial\bin\Debug\net6.0\C# Youtube Tutorial.exe
+C:\Users\Keagon Frye\Downloads\C# Youtube Tutorial\bin\Debug\net6.0\C# Youtube Tutorial.deps.json
+C:\Users\Keagon Frye\Downloads\C# Youtube Tutorial\bin\Debug\net6.0\C# Youtube Tutorial.runtimeconfig.json
+C:\Users\Keagon Frye\Downloads\C# Youtube Tutorial\bin\Debug\net6.0\C# Youtube Tutorial.dll
+C:\Users\Keagon Frye\Downloads\C# Youtube Tutorial\bin\Debug\net6.0\C# Youtube Tutorial.pdb
+C:\Users\Keagon Frye\Downloads\C# Youtube Tutorial\obj\Debug\net6.0\C# Youtube Tutorial.csproj.AssemblyReference.cache
+C:\Users\Keagon Frye\Downloads\C# Youtube Tutorial\obj\Debug\net6.0\C# Youtube Tutorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Keagon Frye\Downloads\C# Youtube Tutorial\obj\Debug\net6.0\C# Youtube Tutorial.AssemblyInfoInputs.cache
+C:\Users\Keagon Frye\Downloads\C# Youtube Tutorial\obj\Debug\net6.0\C# Youtube Tutorial.AssemblyInfo.cs
+C:\Users\Keagon Frye\Downloads\C# Youtube Tutorial\obj\Debug\net6.0\C# Youtube Tutorial.csproj.CoreCompileInputs.cache
+C:\Users\Keagon Frye\Downloads\C# Youtube Tutorial\obj\Debug\net6.0\C# Youtube Tutorial.dll
+C:\Users\Keagon Frye\Downloads\C# Youtube Tutorial\obj\Debug\net6.0\refint\C# Youtube Tutorial.dll
+C:\Users\Keagon Frye\Downloads\C# Youtube Tutorial\obj\Debug\net6.0\C# Youtube Tutorial.pdb
+C:\Users\Keagon Frye\Downloads\C# Youtube Tutorial\obj\Debug\net6.0\C# Youtube Tutorial.genruntimeconfig.cache
+C:\Users\Keagon Frye\Downloads\C# Youtube Tutorial\obj\Debug\net6.0\ref\C# Youtube Tutorial.dll
